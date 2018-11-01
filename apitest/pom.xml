@@ -257,4 +257,8 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
+	
+	<build>
+		<finalName>apitest</finalName>
+	</build>
 </project>
